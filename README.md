@@ -23,7 +23,7 @@
 <h2 align="center" class="times-new-roman">Connect with me</h2>
 <div align="center">
   <a href="https://leetcode.com/MithaNimbu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode" style="margin-bottom: 5px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode" style="margin-bottom: 5px;"width="20" height="10" />
   </a>  
   <a href="https://github.com/sammee30" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
